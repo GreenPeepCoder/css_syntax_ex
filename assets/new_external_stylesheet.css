@@ -10,3 +10,20 @@ h1 {
 h2 {
     font-size: 32px;
 }
+
+.ingredients-list {
+    list-style: square inside;
+}
+
+ol {
+    list-style: decimal-leading-zero inside;
+}
+
+header img {
+    width: 100px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: inherit;
+}
